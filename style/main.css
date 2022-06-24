@@ -1,0 +1,24 @@
+main {
+  margin-left: 20px;
+}
+
+/* HELLO, MY NAME IS VITOR PEREIRA */
+.main-text {
+  position: absolute;
+  bottom: 72px;
+}
+
+.main-text h1 + h1 {
+  margin-top: 64px;
+}
+
+/* LAZY CAT */
+.lazy-cat {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.lazy-cat img {
+  position: absolute;
+  right: 0;
+}

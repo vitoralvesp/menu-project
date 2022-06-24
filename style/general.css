@@ -1,0 +1,64 @@
+:root {
+  --background: #fefefe;
+  --principal: #fea401;
+  --black: #000;
+  --white: #fff;
+}
+
+.background {
+  color: var(--background);
+}
+
+.principal {
+  color: var(--principal);
+}
+
+.black {
+  color: var(--black);
+}
+
+.white {
+  color: var(--white);
+}
+
+/* GENERAL */
+body {
+  margin: 0;
+  background-color: var(--background);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+h1,
+a,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+/* DISPLAY: NONE */
+.none {
+  display: none;
+}
+
+/* Z-INDEX */
+.z-index {
+  z-index: 1;
+}
+
+.z-index-2 {
+  z-index: 2;
+}
+
+.z-index-3 {
+  z-index: 3;
+}

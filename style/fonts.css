@@ -1,0 +1,33 @@
+/* FONT */
+.barriecito {
+  font-family: "Barriecito", cursive;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+/* SIZES */
+.font-size-22 {
+  font-size: 1.125rem;
+  line-height: 1.125rem;
+  letter-spacing: .3em;
+}
+
+.font-size-60 {
+  font-size: 3.75rem;
+  line-height: 3.75rem;
+  letter-spacing: .4em;
+}
+
+.font-size-72 {
+  font-size: 4.5rem;
+  line-height: 4.5rem;
+  letter-spacing: .4em;
+}
+
+.font-size-96 {
+  font-size: 6rem;
+  line-height: 6rem;
+  letter-spacing: .4em;
+}

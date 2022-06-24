@@ -1,0 +1,19 @@
+/* BORDER  */
+.border-left,
+.border-bottom {
+  position: absolute;
+}
+
+.border-left {
+  height: 100vh;
+  top: 0;
+  left: 14px;
+  border-left: 4px solid var(--black);
+}
+
+.border-bottom {
+  width: 100vw;
+  left: 0;
+  bottom: 14px;
+  border-bottom: 4px solid var(--black);
+}
